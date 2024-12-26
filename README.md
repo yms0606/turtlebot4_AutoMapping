@@ -3,6 +3,7 @@
 This repository showcases an innovative project leveraging TurtleBot4 for autonomous mapping. The robot dynamically explores a closed map, navigating to the furthest unknown spaces detected by SLAM, until the map is fully explored and closed.
 
 ---
+<br>
 
 ## ✨ Key Features
 
@@ -14,18 +15,21 @@ This repository showcases an innovative project leveraging TurtleBot4 for autono
   Ensures that all unknown spaces are mapped with minimal redundancy.
 
 ---
+<br>
 
 ## 🎥 Demo
 
 https://github.com/user-attachments/assets/27845539-476a-4b76-92f9-8398309800cf
 
 ---
+<br>
 
-### 📋 Prerequisites
+## 📋 Prerequisites
 
 - 🐢 TurtleBot4
 - 🤖 ROS 2
 - 🗺️ SLAM Toolbox
+<br>
 
 ## 👨‍💻 Contributors
 A big thank you to everyone who made this project possible! 🎉  
