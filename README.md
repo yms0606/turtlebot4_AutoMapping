@@ -18,14 +18,6 @@ This project is TurtleBot4 project for autonomous mapping. The robot dynamically
   Ensures that all unknown spaces are mapped with minimal redundancy.
 
 <br>
-
-## 📋 Prerequisites
-
-- 🐢 TurtleBot4
-- 🤖 ROS 2
-- 🗺️ SLAM Toolbox
-<br>
-
 <br>
 
 ## 🎥 Demo
