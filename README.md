@@ -2,9 +2,9 @@
 
 This project is TurtleBot4 project for autonomous mapping. The robot dynamically explores a closed map, navigating to the furthest unknown spaces detected by SLAM, until the map is fully explored and closed. Imitate the mapping of the robot vacuum cleaner.
 <br><br>
-터틀봇4를 활용한 오토 매핑 프로젝트입니다. SLAM 파라미터 튜닝과 미탐색 영역을 탐지하는 알고리즘을 구현하여 매핑을 진행합니다. 
+**터틀봇4를 활용한 오토 매핑 프로젝트입니다. SLAM 파라미터 튜닝과 미탐색 영역을 탐지하는 알고리즘을 구현하여 매핑을 진행합니다.**
 <br>
-로봇 청소기의 매핑 과정을 모방하고자 하였습니다.
+**로봇 청소기의 매핑 과정을 모방하고자 하였습니다.**
 
 <br>
 
